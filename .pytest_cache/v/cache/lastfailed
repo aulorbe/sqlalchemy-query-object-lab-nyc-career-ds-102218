@@ -1,0 +1,5 @@
+{
+  "test/index_test.py::TestQueries::test_count_number_of_tech_companies": true,
+  "test/index_test.py::TestQueries::test_return_disneys_industry": true,
+  "test/index_test.py::TestQueries::test_return_industry_and_its_total_EV": true
+}

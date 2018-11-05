@@ -10,7 +10,7 @@ class TestQueries(unittest.TestCase):
 
     def test_return_disneys_industry(self):
         disney = return_disneys_industry()
-        result = 'Broadcasting\xa0and\xa0entertainment'
+        result = 'Broadcasting and entertainment'
         self.assertEqual(disney, result)
 
     def test_return_list_of_company_objects_ordered_alphabetically_by_symbol(self):
